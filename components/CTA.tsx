@@ -14,7 +14,7 @@ export default function CTA() {
     <section className="cta-section" id="contact">
       <div className="cta-shape cta-shape-one" />
       <div className="cta-shape cta-shape-two" />
-      <div className="cta-dots">•••</div>
+     
 
       <div className="cta-inner">
         {/* HEADING */}
@@ -81,7 +81,7 @@ export default function CTA() {
                   <strong>0815 7031 751</strong>
                 </div>
 
-                <span className="cta-contact-circle">↗</span>
+                <span className="cta-contact-circle">↗︎</span>
               </a>
 
               {/* INSTAGRAM */}
@@ -127,7 +127,7 @@ export default function CTA() {
                   <strong>@batagorbooyah</strong>
                 </div>
 
-                <span className="cta-contact-circle">↗</span>
+                <span className="cta-contact-circle">↗︎</span>
               </a>
 
               {/* OPERASIONAL */}
